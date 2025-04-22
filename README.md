@@ -1,25 +1,45 @@
-## Hi there 👋
+# 🌟 Welcome to **Dev Coffee's** GitHub Profile 🌟
+![Banner](https://your-banner-link.com)  <!-- Thêm banner đẹp ở đây -->
 
-☕ Dev Coffee
-Dev Coffee là một cộng đồng nhỏ nơi lập trình viên cùng nhau học hỏi, chia sẻ kiến thức và thưởng thức những tách cà phê thơm lừng trong lúc code. Chúng tôi xây dựng các dự án open-source nhằm phục vụ cộng đồng dev Việt, từ tool hỗ trợ dev, demo công nghệ đến các app thú vị mang tính thử nghiệm.
+**Dev Coffee** là cộng đồng lập trình viên sáng tạo, nơi chúng ta không chỉ viết code mà còn chia sẻ niềm đam mê và thưởng thức một tách cà phê. Từ **dev tools** đến **open-source projects**, chúng tôi tạo ra những sản phẩm công nghệ vừa hữu ích vừa thú vị. 🚀
 
-🚀 Mục tiêu
-Kết nối các lập trình viên đam mê công nghệ.
+---
 
-Cùng nhau xây dựng các dự án open-source hữu ích.
+## 🔧 Featured Projects:
+- **[Dev Tools](https://github.com/devcoffee/dev-tools)**: Bộ công cụ hỗ trợ lập trình viên tối ưu công việc.
+- **[Coffee Notes](https://github.com/devcoffee/coffee-notes)**: Ghi chú nhanh và dễ hiểu về các công nghệ mới.
+- **[Mini Apps](https://github.com/devcoffee/mini-apps)**: Ứng dụng nhỏ giúp thử nghiệm và học công nghệ mới.
 
-Tạo ra môi trường học tập và chia sẻ thân thiện, sáng tạo.
+---
 
-🧩 Dự án tiêu biểu
-dev-tools: Tập hợp các công cụ nhỏ giúp tăng năng suất dev.
+## 💬 Connect with Me:
 
-coffee-notes: Ghi chú ngắn gọn, dễ hiểu về các chủ đề hot trong lập trình.
+- **[Discord](https://discord.gg/example)** – Chúng ta sẽ gặp nhau ở đây để cùng nhau phát triển.
+- **[LinkedIn](https://www.linkedin.com/in/devcoffee)** – Kết nối với tôi trên LinkedIn để chia sẻ những kinh nghiệm.
+- **[Twitter](https://twitter.com/devcoffee)** – Theo dõi tôi trên Twitter để cập nhật xu hướng công nghệ và những câu chuyện vui về lập trình.
 
-mini-apps: Bộ sưu tập các ứng dụng nhỏ để học & thử nghiệm công nghệ mới.
+---
 
-💬 Tham gia cùng chúng tôi
-Bạn có thể đóng góp code, tài liệu hoặc đơn giản là chia sẻ ý tưởng. Chúng tôi luôn chào đón các bạn dev ở mọi cấp độ kỹ năng.
+## 🏅 Badges
 
-“Code như rót cà phê – chậm rãi, tỉ mỉ, và đầy cảm hứng.” ☕
+![GitHub Repo Stars](https://img.shields.io/github/stars/devcoffee?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/devcoffee?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/devcoffee?style=social)
 
-Nếu bạn muốn thêm logo, badge GitHub Actions, hoặc gắn link tới các mạng xã hội/cộng đồng (Discord, Facebook group, v.v.) thì mình có thể giúp bạn thêm phần đó luôn nhé! Muốn phong cách nghiêm túc hơn hay vui vẻ hơn cũng được.
+---
+
+## 🌱 **Currently Learning**:
+- **Web3**: Blockchain, Smart Contracts, and Decentralized Apps (DApps).
+- **Machine Learning**: Neural Networks, AI algorithms, and Deep Learning.
+- **Frontend Technologies**: Next.js, TailwindCSS, TypeScript, and React.
+
+---
+
+## 🚀 Why Join Us?
+- **Collaborate**: Tham gia cùng chúng tôi để tạo ra những dự án open-source hữu ích cho cộng đồng.
+- **Learn & Share**: Chia sẻ kiến thức và học hỏi từ các lập trình viên khác.
+- **Have Fun**: Kết hợp giữa học và chơi, thưởng thức cà phê trong khi phát triển các sản phẩm sáng tạo.
+
+---
+
+**Let's code and drink coffee!** ☕💻
