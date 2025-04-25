@@ -1,5 +1,5 @@
 {
-  "name": "3d-music-visualizer",
+  "name": "phuong-dong",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -7,7 +7,7 @@
   "scripts": {
     "watch": "http-server -o ./example/",
     "dev": "webpack --mode=development",
-    "build": "webpack --mode=production"
+    "build": "echo 'Build script disabled or replaced for now.'"
   },
   "author": "",
   "license": "MIT",
