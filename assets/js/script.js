@@ -158,8 +158,6 @@ for (let i = 0; i < navigationLinks.length; i++) {
   });
 }
 
-
-
 document.addEventListener('DOMContentLoaded', () => {
   const audio = document.getElementById("bg-music");
   audio.play().catch(() => { });
