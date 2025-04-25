@@ -157,3 +157,21 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
   });
 }
+
+
+
+document.addEventListener('DOMContentLoaded', () => {
+  const audio = document.getElementById("bg-music");
+  audio.play().catch(() => { });
+  const playMusic = () => {
+    audio.play().catch(() => { });
+  };
+  document.body.addEventListener('click', playMusic, { once: true });
+});
+
+document.addEventListener('DOMContentLoaded', () => {
+  document.body.classList.add("ranbow");
+  setTimeout(() => {
+    document.body.classList.add("show");
+  }, 100)
+});
